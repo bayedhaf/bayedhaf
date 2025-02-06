@@ -51,9 +51,11 @@ Here are some of the projects I've worked on:
 
 ### 📊 GitHub Stats
 
-![Bayisa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayisa&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayisa&layout=compact&theme=radical)
+[![bayedhaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayedhaf&show_icons=true&theme=dark)](https://github.com/bayedhaf)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=compact&theme=dark&langs_count=6)](https://github.com/bayedhaf)
 
 ---
 "# bayedhaf" 

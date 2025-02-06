@@ -40,7 +40,7 @@ Here are some of the projects I've worked on:
 ### 📫 How to Reach Me
 
 - **Email**: [bayedhaf2023@gmail.com](mailto:bayedhaf2023@gmail.com)
-- **LinkedIn**: [(https://et.linkedin.com/in/bayisa-balcha52)]((https://et.linkedin.com/in/bayisa-balcha52))
+- **LinkedIn**: [(https://et.linkedin.com/in/bayisa-balcha-52b12a334)]((https://et.linkedin.com/in/bayisa-balcha-52b12a334))
 - **Portfolio**: [Bayisa's Portfolio](https://bayisa.dev)
 
 

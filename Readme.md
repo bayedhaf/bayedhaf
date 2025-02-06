@@ -58,5 +58,13 @@ Here are some of the projects I've worked on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=compact&theme=dark&langs_count=6)](https://github.com/bayedhaf)
 
+[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true)](https://github.com/bayedhaf)
+
+[![Technologies Used](https://img.shields.io/badge/Technologies-Used-blue?style=flat&logo=python&logoColor=white)](https://github.com/bayedhaf)
+[![Technologies Used](https://img.shields.io/badge/Technologies-Used-darkgreen?style=flat&logo=javascript&logoColor=white)](https://github.com/bayedhaf)
+[![Technologies Used](https://img.shields.io/badge/Technologies-Used-orange?style=flat&logo=react&logoColor=white)](https://github.com/bayedhaf)
+[![Technologies Used](https://img.shields.io/badge/Technologies-Used-red?style=flat&logo=java&logoColor=white)](https://github.com/bayedhaf)
+
+
 ---
 "# bayedhaf" 

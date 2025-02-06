@@ -1,4 +1,4 @@
-echo "# Hi, I'm Bayisa 👋
+# Hi, I'm Bayisa 👋
 
 ## Fullstack Developer (MERN Stack)
 

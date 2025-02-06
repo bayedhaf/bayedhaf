@@ -39,10 +39,11 @@ Here are some of the projects I've worked on:
 
 ### 📫 How to Reach Me
 
-- **Email**: [bayisa@example.com](mailto:bayisa@example.com)
-- **LinkedIn**: [Bayisa's LinkedIn](https://www.linkedin.com/in/bayisa)
+- **Email**: [bayedhaf2023@gmail.com](mailto:bayedhaf2023@gmail.com)
+- **LinkedIn**: [Bayisa's LinkedIn]((https://et.linkedin.com/i
+n/bayisa-balcha52))
 - **Portfolio**: [Bayisa's Portfolio](https://bayisa.dev)
-- **Twitter**: [@bayisa_dev](https://twitter.com/bayisa_dev)
+
 
 ### ⚡ Fun Facts
 

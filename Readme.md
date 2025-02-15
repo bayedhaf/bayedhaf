@@ -51,20 +51,51 @@ Here are some of the projects I've worked on:
 - I'm a big fan of hackathons and have participated in several.
 
 ### 📊 GitHub Stats
+# GitHub Profile Stats and Activity
 
+## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
 
-[![bayedhaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayedhaf&show_icons=true&theme=dark)](https://github.com/bayedhaf)
+## GitHub Stats
+[![bayedhaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayedhaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/bayedhaf)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=compact&theme=dark&langs_count=6)](https://github.com/bayedhaf)
+## Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=compact&theme=dark&langs_count=8&hide=html,css)](https://github.com/bayedhaf)
 
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true)](https://github.com/bayedhaf)
+## GitHub Activity Graph
+[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true&hide_border=true)](https://github.com/bayedhaf)
 
+## Technologies Used
 [![Technologies Used](https://img.shields.io/badge/Technologies-Used-blue?style=flat&logo=python&logoColor=white)](https://github.com/bayedhaf)
 [![Technologies Used](https://img.shields.io/badge/Technologies-Used-darkgreen?style=flat&logo=javascript&logoColor=white)](https://github.com/bayedhaf)
 [![Technologies Used](https://img.shields.io/badge/Technologies-Used-orange?style=flat&logo=react&logoColor=white)](https://github.com/bayedhaf)
 [![Technologies Used](https://img.shields.io/badge/Technologies-Used-red?style=flat&logo=java&logoColor=white)](https://github.com/bayedhaf)
+[![Technologies Used](https://img.shields.io/badge/Technologies-Used-purple?style=flat&logo=node.js&logoColor=white)](https://github.com/bayedhaf)
+[![Technologies Used](https://img.shields.io/badge/Technologies-Used-yellow?style=flat&logo=typescript&logoColor=white)](https://github.com/bayedhaf)
 
+## Additional Features
+
+### Repository Stats
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bayedhaf&repo=your-repo-name&theme=dark)](https://github.com/bayedhaf/your-repo-name)
+
+### Contribution Calendar
+[![Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=github&area=true&hide_border=true)](https://github.com/bayedhaf)
+
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=bayedhaf&color=blue&style=flat)
+
+### Followers
+[![GitHub Followers](https://img.shields.io/github/followers/bayedhaf?label=Follow&style=social)](https://github.com/bayedhaf)
+
+### Latest Blog Posts
+<!-- Replace with your blog RSS feed -->
+[![Latest Blog Posts](https://github-readme-blog-posts.vercel.app/api/posts?username=bayedhaf&count=3)](https://your-blog-url.com)
+
+### WakaTime Stats
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayedhaf&theme=dark)](https://wakatime.com/@bayedhaf)
+
+### GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
 
 ---
 "# bayedhaf" 

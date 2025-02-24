@@ -54,6 +54,9 @@ Here are some of the projects I've worked on:
 # GitHub Profile Stats and Activity
 
 ## GitHub Streak
+# GitHub Profile Stats and Activity
+
+## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
 
 ## GitHub Stats
@@ -66,36 +69,32 @@ Here are some of the projects I've worked on:
 [![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true&hide_border=true)](https://github.com/bayedhaf)
 
 ## Technologies Used
-[![Technologies Used](https://img.shields.io/badge/Technologies-Used-blue?style=flat&logo=python&logoColor=white)](https://github.com/bayedhaf)
-[![Technologies Used](https://img.shields.io/badge/Technologies-Used-darkgreen?style=flat&logo=javascript&logoColor=white)](https://github.com/bayedhaf)
-[![Technologies Used](https://img.shields.io/badge/Technologies-Used-orange?style=flat&logo=react&logoColor=white)](https://github.com/bayedhaf)
-[![Technologies Used](https://img.shields.io/badge/Technologies-Used-red?style=flat&logo=java&logoColor=white)](https://github.com/bayedhaf)
-[![Technologies Used](https://img.shields.io/badge/Technologies-Used-purple?style=flat&logo=node.js&logoColor=white)](https://github.com/bayedhaf)
-[![Technologies Used](https://img.shields.io/badge/Technologies-Used-yellow?style=flat&logo=typescript&logoColor=white)](https://github.com/bayedhaf)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://java.com)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
 
-## Additional Features
-
-### Repository Stats
+## Repository Stats
 [![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bayedhaf&repo=your-repo-name&theme=dark)](https://github.com/bayedhaf/your-repo-name)
 
-### Contribution Calendar
+## Contribution Calendar
 [![Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=github&area=true&hide_border=true)](https://github.com/bayedhaf)
 
-### Profile Views
+## Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=bayedhaf&color=blue&style=flat)
 
-### Followers
+## Followers
 [![GitHub Followers](https://img.shields.io/github/followers/bayedhaf?label=Follow&style=social)](https://github.com/bayedhaf)
 
-### Latest Blog Posts
-<!-- Replace with your blog RSS feed -->
+## Latest Blog Posts
 [![Latest Blog Posts](https://github-readme-blog-posts.vercel.app/api/posts?username=bayedhaf&count=3)](https://your-blog-url.com)
 
-### WakaTime Stats
+## WakaTime Stats
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayedhaf&theme=dark)](https://wakatime.com/@bayedhaf)
 
-### GitHub Trophies
+## GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
-
 ---
 "# bayedhaf" 

@@ -58,8 +58,7 @@ Here are some of the projects I've worked on:
 ## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
 
-## GitHub Stats
-[![bayedhaf's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayedhaf&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/bayedhaf)
+
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=compact&theme=dark&langs_count=8&hide=html,css)](https://github.com/bayedhaf)

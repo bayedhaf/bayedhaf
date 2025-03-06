@@ -32,8 +32,13 @@ Here are some of the projects I've worked on:
 2. **Social Media App**  
    - Developed a social media application with real-time messaging and post sharing features.
    - Tech Stack: React, Socket.io, Node.js, MongoDB.
+  
+3. **online vote App**  
+   - Developed a social media application with real-time messaging and post sharing features.
+   - Tech Stack: React, Socket.io, Node.js, MongoDB.
+   - ****:[http://onlinovote.netlify.app](http://onlinovote.netlify.app)
 
-3. **Task Management Tool**  
+4. **Task Management Tool**  
    - Created a task management tool with drag-and-drop functionality and real-time updates.
    - Tech Stack: React, Node.js, Express, MongoDB.
 
@@ -52,8 +57,8 @@ Here are some of the projects I've worked on:
 ### 📊 GitHub Stats
 # GitHub Profile Stats and Activity
 
-## GitHub Streak
-# GitHub Profile Stats and Activity
+
+
 
 ## GitHub Streak
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
@@ -61,7 +66,8 @@ Here are some of the projects I've worked on:
 
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=compact&theme=dark&langs_count=8&hide=html,css)](https://github.com/bayedhaf)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&lay[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
+---out=compact&theme=dark&langs_count=8&hide=html,css)](https://github.com/bayedhaf)
 
 ## GitHub Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true&hide_border=true)](https://github.com/bayedhaf)

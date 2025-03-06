@@ -1,6 +1,6 @@
 # Hi, I'm Bayisa 👋
 
-### Software Enginer
+# Software Enginer
 ## Fullstack Developer (MERN Stack)
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building scalable, efficient, and user-friendly web applications. 

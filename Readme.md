@@ -100,4 +100,4 @@ Here are some of the projects I've worked on:
 
 ## GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
-"# bayedhaf" 
+# bayedhaf

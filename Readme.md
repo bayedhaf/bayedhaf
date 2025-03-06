@@ -1,6 +1,6 @@
 # Hi, I'm Bayisa 👋
 
-##Software Enginer
+### Software Enginer
 ## Fullstack Developer (MERN Stack)
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building scalable, efficient, and user-friendly web applications. 
@@ -81,7 +81,7 @@ Here are some of the projects I've worked on:
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
 
 ## Repository Stats
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bayedhaf&repo=your-repo-name&theme=dark)](https://github.com/bayedhaf/your-repo-name)
+[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bayedhaf&repo=your-repo-name&theme=dark)](https://github.com/bayedhaf/Online-vote-App)
 
 ## Contribution Calendar
 [![Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=github&area=true&hide_border=true)](https://github.com/bayedhaf)
@@ -96,7 +96,7 @@ Here are some of the projects I've worked on:
 [![Latest Blog Posts](https://github-readme-blog-posts.vercel.app/api/posts?username=bayedhaf&count=3)](https://your-blog-url.com)
 
 ## WakaTime Stats
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayedhaf&theme=dark)](https://wakatime.com/@bayedhaf)
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayedhaf&theme=dark&layout=compact&range=last_7_days)](https://wakatime.com/@bayedhaf)
 
 ## GitHub Trophies
 [![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)

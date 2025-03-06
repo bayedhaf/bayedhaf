@@ -1,6 +1,6 @@
 # Hi, I'm Bayisa 👋
 
-
+##Software Enginer
 ## Fullstack Developer (MERN Stack)
 
 Welcome to my GitHub profile! I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building scalable, efficient, and user-friendly web applications. 
@@ -93,6 +93,5 @@ Here are some of the projects I've worked on:
 [![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayedhaf&theme=dark)](https://wakatime.com/@bayedhaf)
 
 ## GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
----
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/bayedhaf)
 "# bayedhaf" 

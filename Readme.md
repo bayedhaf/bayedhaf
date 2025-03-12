@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate Fullstack Developer specializing 
 - **Backend**: Node.js, Express.js, RESTful APIs, GraphQL
 - **Database**: MongoDB, Mongoose, Firebase
 - **DevOps**: Docker, AWS, Heroku, Netlify, Vercel
-- **Version Control**: Git, GitHub, GitLab
+- **Version Control**: Git, GitHub
 - **Other Tools**: Postman, VS Code, Figma, Jira
 
 ### 🌱 What I'm Currently Learning

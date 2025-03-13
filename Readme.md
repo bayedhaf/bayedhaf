@@ -46,7 +46,7 @@ Here are some of the projects I've worked on:
 
 - **Email**: [bayedhaf2023@gmail.com](mailto:bayedhaf2023@gmail.com)
 - **LinkedIn**: [https://et.linkedin.com/in/bayisa-balcha-52b12a334](https://et.linkedin.com/in/bayisa-balcha-52b12a334)
-- **Portfolio**: [http://bayisa-portfolio.netlify.app](http://bayisa-portfolio.netlify.app)
+- **Portfolio**: [(https://bayedhaf.github.io/web-dev-class-project/)](https://bayedhaf.github.io/web-dev-class-project/)
 
 ### ⚡ Fun Facts
 

@@ -1,103 +1,82 @@
 # Hi, I'm Bayisa 👋
 
-# Software Enginer
-## Fullstack Developer (MERN Stack)
+### 🚀 Software Engineer | Fullstack Developer (MERN Stack)
 
-Welcome to my GitHub profile! I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building scalable, efficient, and user-friendly web applications. 
+I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable, efficient web applications with clean, maintainable code.
 
-### 🛠️ Technologies & Tools
+---
 
-- **Frontend**: React.js, Redux, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap
+## 🛠️ Technologies & Tools
+
+- **Frontend**: React.js, Redux, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, Material UI
 - **Backend**: Node.js, Express.js, RESTful APIs, GraphQL
 - **Database**: MongoDB, Mongoose, Firebase
 - **DevOps**: Docker, AWS, Heroku, Netlify, Vercel
 - **Version Control**: Git, GitHub
-- **Other Tools**: Postman, VS Code, Figma, Jira
+- **Tools**: Postman, VS Code, Figma, Jira, Trello
 
-### 🌱 What I'm Currently Learning
+---
+
+## 🌱 Currently Learning
 
 - Advanced React patterns (Hooks, Context API)
-- TypeScript for scalable applications
-- Microservices architecture
-- GraphQL for efficient data fetching
+- TypeScript for scalable apps
+- Microservices & GraphQL
 
-### 💼 Projects
+---
 
-Here are some of the projects I've worked on:
+## 💼 Featured Projects
 
-1. **E-commerce Platform**  
-   - Built a fullstack e-commerce platform with user authentication, product management, and payment integration.
-   - Tech Stack: React, Redux, Node.js, Express, MongoDB, Stripe API.
+1. **[E-commerce Platform](https://github.com/bayedhaf/e-commerce)**: Fullstack platform with user authentication, product management, and Stripe API integration.  
+   _Tech Stack_: React, Redux, Node.js, Express, MongoDB
 
-2. **Social Media App**  
-   - Developed a social media application with real-time messaging and post sharing features.
-   - Tech Stack: React, Socket.io, Node.js, MongoDB.
-  
-3. **online vote App**  
-   - Developed a social media application with real-time messaging and post sharing features.
-   - Tech Stack: React, Socket.io, Node.js, MongoDB.
-   - ****:[http://onlinovote.netlify.app](http://onlinovote.netlify.app)
+2. **[Social Media App](https://github.com/bayedhaf/social-media)**: Real-time social media app with post sharing and messaging.  
+   _Tech Stack_: React, Socket.io, Node.js, MongoDB
 
-4. **Task Management Tool**  
-   - Created a task management tool with drag-and-drop functionality and real-time updates.
-   - Tech Stack: React, Node.js, Express, MongoDB.
+3. **[Online Vote App](https://github.com/bayedhaf/Online-vote-App)**: Secure online voting app built with React & Node.js.  
+   _Live Demo_: [Online-vote-project](http://onlinovote.netlify.app)
 
-### 📫 How to Reach Me
+4. **[Task Management Tool](https://github.com/bayedhaf/task-manager)**: A task management app with drag-and-drop and real-time updates.  
+   _Tech Stack_: React, Node.js, Express, MongoDB
+
+---
+
+## 📧 Connect With Me
 
 - **Email**: [bayedhaf2023@gmail.com](mailto:bayedhaf2023@gmail.com)
-- **LinkedIn**: [https://et.linkedin.com/in/bayisa-balcha-52b12a334](https://et.linkedin.com/in/bayisa-balcha-52b12a334)
-- **Portfolio**: [(https://bayedhaf.github.io/web-dev-class-project/)](https://bayedhaf.github.io/web-dev-class-project/)
+- **LinkedIn**: [Bayisa Balcha](https://et.linkedin.com/in/bayisa-balcha-52b12a334)
+- **Portfolio**: [Portfolio](https://bayedhaf.github.io/web-dev-class-project/)
 
-### ⚡ Fun Facts
+---
 
-- I'm a coffee enthusiast ☕ and love exploring new coffee shops.
-- I enjoy contributing to open-source projects in my free time.
-- I'm a big fan of hackathons and have participated in several.
+## ⚡ Fun Facts
 
-### 📊 GitHub Stats
-# GitHub Profile Stats and Activity
+- Coffee enthusiast ☕
+- Open-source contributor 🌍
+- Hackathon lover 🎮
 
+---
 
+## 📊 GitHub Stats
 
+### GitHub Streak
+[![GitHub Streak](https://git-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
 
-## GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
+### Top Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&langs_count=8&hide=html,css&theme=dark)](https://github.com/bayedhaf)
 
-
-
-## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&lay[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
----out=compact&theme=dark&langs_count=8&hide=html,css)](https://github.com/bayedhaf)
-
-## GitHub Activity Graph
+### GitHub Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true&hide_border=true)](https://github.com/bayedhaf)
 
-## Technologies Used
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)](https://reactjs.org)
-[![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)](https://java.com)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://typescriptlang.org)
+---
 
-## Repository Stats
-[![Repo Stats](https://github-readme-stats.vercel.app/api/pin/?username=bayedhaf&repo=your-repo-name&theme=dark)](https://github.com/bayedhaf/Online-vote-App)
+## 🏆 GitHub Trophies
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
 
-## Contribution Calendar
-[![Contribution Calendar](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=github&area=true&hide_border=true)](https://github.com/bayedhaf)
-
-## Profile Views
+## 📈 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=bayedhaf&color=blue&style=flat)
 
-## Followers
+---
+
+## 👥 Followers
 [![GitHub Followers](https://img.shields.io/github/followers/bayedhaf?label=Follow&style=social)](https://github.com/bayedhaf)
-
-## Latest Blog Posts
-[![Latest Blog Posts](https://github-readme-blog-posts.vercel.app/api/posts?username=bayedhaf&count=3)](https://your-blog-url.com)
-
-## WakaTime Stats
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=bayedhaf&theme=dark&layout=compact&range=last_7_days)](https://wakatime.com/@bayedhaf)
-
-## GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
-# bayedhaf

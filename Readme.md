@@ -65,6 +65,7 @@ I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Ex
 ### 🛠️ My Toolbox
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=donut&langs_count=8&hide=html,css&theme=algolia)](https://github.com/bayedhaf)
+
 ### GitHub Activity Graph
 [![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true&hide_border=true)](https://github.com/bayedhaf)
 

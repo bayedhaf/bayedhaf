@@ -61,6 +61,8 @@ I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Ex
 
 ### GitHub Streak
 [![GitHub Streak](https://git-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
+###Contribution graph
+![Bayisa's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayedhaf&theme=dracula)
 
 ### 🛠️ My Toolbox
 

@@ -1,85 +1,118 @@
-# Hi, I'm Bayisa 👋
+<h1 align="center">Hi 👋, I'm Bayisa Balcha</h1>
 
-### 🚀 Software Engineer | Fullstack Developer (MERN Stack)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Fullstack+MERN+Developer;Open+Source+Enthusiast;Building+cool+web+apps" alt="Typing SVG" />
+</p>
 
-I'm a passionate Fullstack Developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I enjoy building scalable, efficient web applications with clean, maintainable code.
+<p align="center">
+  <a href="https://github.com/bayedhaf">
+    <img src="https://img.shields.io/github/followers/bayedhaf?label=Follow&style=social" />
+  </a>
+  <a href="mailto:bayedhaf2023@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Drop%20a%20Hi-blue" />
+  </a>
+  <a href="https://et.linkedin.com/in/bayisa-balcha-52b12a334">
+    <img src="https://img.shields.io/badge/LinkedIn-Bayisa%20Balcha-blue?logo=linkedin" />
+  </a>
+  <a href="https://bayedhaf.github.io/web-dev-class-project/">
+    <img src="https://img.shields.io/badge/Portfolio-View%20Site-orange" />
+  </a>
+</p>
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🚀 About Me
 
-- **Frontend**: React.js, Redux, HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, Material UI
-- **Backend**: Node.js, Express.js, RESTful APIs, GraphQL
-- **Database**: MongoDB, Mongoose, Firebase
-- **DevOps**: Docker, AWS, Heroku, Netlify, Vercel
-- **Version Control**: Git, GitHub
-- **Tools**: Postman, VS Code, Figma, Jira, Trello
+I'm a passionate **Fullstack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I love creating high-quality, scalable web applications with modern technologies and clean code. I thrive on challenges and love collaborating with others to build something amazing. 
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Frontend
+React.js • Redux • HTML5 • CSS3 • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Material UI
+
+### 🧪 Backend
+Node.js • Express.js • REST APIs • GraphQL
+
+### 🗃️ Database
+MongoDB • Mongoose • Firebase
+
+### ☁️ DevOps / Hosting
+Docker • AWS • Vercel • Netlify • Heroku
+
+### 🧰 Tools & Platforms
+Git • GitHub • Postman • VS Code • Figma • Trello • Jira
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced React patterns (Hooks, Context API)
-- TypeScript for scalable apps
-- Microservices & GraphQL
+- 🔹 Advanced React (Hooks, Context API)
+- 🔹 TypeScript for scalable frontend apps
+- 🔹 Microservices Architecture
+- 🔹 Apollo GraphQL
 
 ---
 
 ## 💼 Featured Projects
 
-1. **[E-commerce Platform](https://github.com/bayedhaf/e-commerce)**: Fullstack platform with user authentication, product management, and Stripe API integration.  
-   _Tech Stack_: React, Redux, Node.js, Express, MongoDB
-
-2. **[Social Media App](https://github.com/bayedhaf/social-media)**: Real-time social media app with post sharing and messaging.  
-   _Tech Stack_: React, Socket.io, Node.js, MongoDB
-
-3. **[Online Vote App](https://github.com/bayedhaf/Online-vote-App)**: Secure online voting app built with React & Node.js.  
-   _Live Demo_: [Online-vote-project](http://onlinovote.netlify.app)
-
-4. **[Task Management Tool](https://github.com/bayedhaf/task-manager)**: A task management app with drag-and-drop and real-time updates.  
-   _Tech Stack_: React, Node.js, Express, MongoDB
+| Project | Description | Tech Stack | Live / Code |
+|--------|-------------|------------|-------------|
+| 🛍️ **E-commerce Platform** | Fullstack shopping platform with Stripe integration | React, Redux, Node.js, Express, MongoDB | [Code](https://github.com/bayedhaf/e-commerce) |
+| 📱 **Social Media App** | Real-time social feed with chat functionality | React, Socket.io, Node.js, MongoDB | [Code](https://github.com/bayedhaf/social-media) |
+| 🗳️ **Online Voting App** | Secure and interactive voting platform | React, Node.js | [Live Demo](http://onlinovote.netlify.app) • [Code](https://github.com/bayedhaf/Online-vote-App) |
+| ✅ **Task Manager** | Drag-and-drop Kanban board with live updates | React, Node.js, Express, MongoDB | [Code](https://github.com/bayedhaf/task-manager) |
 
 ---
 
-## 📧 Connect With Me
+## 📚 Blog & Writings
 
-- **Email**: [bayedhaf2023@gmail.com](mailto:bayedhaf2023@gmail.com)
-- **LinkedIn**: [Bayisa Balcha](https://et.linkedin.com/in/bayisa-balcha-52b12a334)
-- **Portfolio**: [Portfolio](https://bayedhaf.github.io/web-dev-class-project/)
+> _Coming soon: I’ll be sharing articles about React patterns, backend architecture, and real-world project tips on [Dev.to](https://dev.to/)_ ✍️
 
 ---
 
-## ⚡ Fun Facts
+## 🔥 GitHub Stats
 
-- Coffee enthusiast ☕
-- Open-source contributor 🌍
-- Hackathon lover 🎮
-
----
-
-## 📊 GitHub Stats
-
-### GitHub Streak
-[![GitHub Streak](https://git-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark)](https://git.io/streak-stats)
-###Contribution graph
-![Bayisa's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=bayedhaf&theme=dracula)
-
-### 🛠️ My Toolbox
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=donut&langs_count=8&hide=html,css&theme=algolia)](https://github.com/bayedhaf)
-
-### GitHub Activity Graph
-[![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=bayedhaf&theme=react&area=true&hide_border=true)](https://github.com/bayedhaf)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayedhaf&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayedhaf&layout=compact&theme=algolia&langs_count=8&hide=html,css" />
+</p>
 
 ---
 
-## 🏆 GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3)](https://github.com/bayedhaf)
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bayedhaf&theme=onedark&row=2&column=3" />
+</p>
+
+---
+
+## 🌐 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bayedhaf&theme=react-dark&area=true&hide_border=true" />
+</p>
+
+---
+
+## ✨ Fun Facts
+
+- ☕ Coffee is my coding fuel
+- 🧠 Always eager to learn new things
+- 🎮 Participated in several hackathons
+- 🌍 Contributor to open-source projects
+
+---
 
 ## 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=bayedhaf&color=blue&style=flat)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=bayedhaf&color=blue&style=flat" />
+</p>
 
 ---
 
-## 👥 Followers
-[![GitHub Followers](https://img.shields.io/github/followers/bayedhaf?label=Follow&style=social)](https://github.com/bayedhaf)
+> 🚀 *Let's build something awesome together! Feel free to connect or collaborate.*
+

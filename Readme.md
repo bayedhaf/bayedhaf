@@ -14,7 +14,7 @@
   <a href="https://et.linkedin.com/in/bayisa-balcha-52b12a334">
     <img src="https://img.shields.io/badge/LinkedIn-Bayisa%20Balcha-blue?logo=linkedin" />
   </a>
-  <a href="https://bayedhaf.github.io/web-dev-class-project/">
+  <a href="https:https://bayedhaf.github.io/web-dev-class-project/">
     <img src="https://img.shields.io/badge/Portfolio-View%20Site-orange" />
   </a>
 </p>

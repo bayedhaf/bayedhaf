@@ -23,17 +23,17 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Fullstack Developer** specializing in the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). I love creating high-quality, scalable web applications with modern technologies and clean code. I thrive on challenges and love collaborating with others to build something amazing. 
+I'm a passionate **Fullstack Developer** specializing in the **MERN Stack** (MongoDB,Nextjs (Express.js, React.js, Node.js)). I love creating high-quality, scalable web applications with modern technologies and clean code. I thrive on challenges and love collaborating with others to build something amazing. 
 
 ---
 
 ## 🧰 Tech Stack
 
 ### 💻 Frontend
-React.js • Redux • HTML5 • CSS3 • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Material UI
+Nextjs/React.js • Redux • HTML5 • CSS3 • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Material UI
 
 ### 🧪 Backend
-Node.js • Express.js • REST APIs • GraphQL
+Nexjs(Node.js • Express.js • REST APIs • GraphQL)
 
 ### 🗃️ Database
 MongoDB • Mongoose • Firebase
@@ -48,8 +48,13 @@ Git • GitHub • Postman • VS Code • Figma • Trello • Jira
 
 ## 🌱 Currently Learning
 
-- 🔹 Advanced React (Hooks, Context API)
-- 🔹 TypeScript for scalable frontend apps
+- 🔹 Next.js Fullstack Development – for server-side rendering and API integration
+
+🔹 Docker & Kubernetes – containerizing and orchestrating applications
+
+🔹 Cloud Platforms (AWS & Azure) – deploying and scaling applications globally
+
+🔹 Automated Testing (Jest, Cypress) – ensuring reliability through test-driven development
 - 🔹 Microservices Architecture
 - 🔹 Apollo GraphQL
 
@@ -59,9 +64,9 @@ Git • GitHub • Postman • VS Code • Figma • Trello • Jira
 
 | Project | Description | Tech Stack | Live / Code |
 |--------|-------------|------------|-------------|
-| 🛍️ **E-commerce Platform** | Fullstack shopping platform with Stripe integration | React, Redux, Node.js, Express, MongoDB | [Code](https://github.com/bayedhaf/e-commerce) |
+| 🛍️ **E-commerce Platform** | Fullstack shopping platform with Stripe integration | Nexjs/React, Redux, MongoDB | [Code](https://github.com/bayedhaf/e-commerce) |
 | 📱 **Social Media App** | Real-time social feed with chat functionality | React, Socket.io, Node.js, MongoDB | [Code](https://github.com/bayedhaf/social-media) |
-| 🗳️ **Online Voting App** | Secure and interactive voting platform | React, Node.js | [Live Demo](http://onlinovote.netlify.app) • [Code](https://github.com/bayedhaf/Online-vote-App) |
+| 🗳️ **Online Voting App** | Secure and interactive voting platform | React, Node.js,firebase | [Live Demo](http://onlinovote.netlify.app) • [Code](https://github.com/bayedhaf/Online-vote-App) |
 | ✅ **Task Manager** | Drag-and-drop Kanban board with live updates | React, Node.js, Express, MongoDB | [Code](https://github.com/bayedhaf/task-manager) |
 
 ---

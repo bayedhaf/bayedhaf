@@ -66,7 +66,7 @@ Git • GitHub • Postman • VS Code • Figma • Trello • Jira
 |--------|-------------|------------|-------------|
 | 🛍️ **E-commerce Platform** | Fullstack shopping platform with Stripe integration | Nexjs/React, Redux, MongoDB | [Code](https://github.com/bayedhaf/e-commerce) |
 | 📱 **Social Media App** | Real-time social feed with chat functionality | React, Socket.io, Node.js, MongoDB | [Code](https://github.com/bayedhaf/social-media) |
-| 🗳️ Farmer Technology App | Secure and interactive AgriTech platform | Next.js | [Visit Demo](https://farmar-techno.vercel.app/) |
+| 🗳️ Farmer Technology App | Secure and interactive AgriTech platform | Next.js | [Visit Demo](https://agritech-et.vercel.app/) |
 | ✅ **Task Manager** | Drag-and-drop Kanban board with live updates | React, Node.js, Express, MongoDB | [Code](https://github.com/bayedhaf/task-manager) |
 
 ---

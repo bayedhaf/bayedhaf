@@ -118,6 +118,8 @@ Git • GitHub • Postman • VS Code • Figma • Trello • Jira
 </p>
 
 ---
+<iframe src="https://github.com/sponsors/bayedhaf/button" title="Sponsor bayedhaf" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+<iframe src="https://github.com/sponsors/bayedhaf/button" title="Sponsor bayedhaf" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
 
-> 🚀 *Let's build something awesome together! Feel free to connect or collaborate.*
+🚀 *Let's build something awesome together! Feel free to connect or collaborate.*
 

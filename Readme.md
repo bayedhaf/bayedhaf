@@ -23,7 +23,31 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Fullstack Developer** specializing in the **MERN Stack** (MongoDB,Nextjs (Express.js, React.js, Node.js)). I love creating high-quality, scalable web applications with modern technologies and clean code. I thrive on challenges and love collaborating with others to build something amazing. 
+Innovative Full-Stack Developer specializing in AI-powered web applications and intelligent automation systems. Experienced in designing and deploying Retrieval-Augmented Generation (RAG) pipelines, agentic AI solutions, and LLM-driven applications using technologies such as Next.js and Python.
+
+
+
+ 
+
+
+
+Proven ability to transform advanced AI capabilities into scalable, user-centric platforms, including the development of a document scanning and intelligent document processing system powered by a custom RAG architecture. Skilled at integrating LLMs with modern web technologies to create practical tools that solve real-world problems.
+
+
+
+ 
+
+
+
+Experienced in building automation and AI workflows using platforms like n8n, enabling solutions such as AI-driven customer support systems, Telegram bots with text, voice, and real-time interactions, and multi-channel integrations across WhatsApp, LinkedIn, email, and other communication platforms for lead generation and automated engagement.
+
+
+
+ 
+
+
+
+Passionate about developing impactful AI solutions, from agricultural information dissemination systems to intelligent knowledge retrieval platforms. Currently pursuing a BSc in Software Engineering, seeking to contribute this multidisciplinary expertise in AI engineering, full-stack development, and automation to an innovative and forward-thinking development team
 
 ---
 
@@ -33,7 +57,7 @@ I'm a passionate **Fullstack Developer** specializing in the **MERN Stack** (Mon
 Nextjs/React.js • Redux • HTML5 • CSS3 • JavaScript (ES6+) • Tailwind CSS • Bootstrap • Material UI
 
 ### 🧪 Backend
-Nexjs(Node.js • Express.js • REST APIs • GraphQL)
+Nexjs(Node.js • Express.js • REST APIs .Python• GraphQL)
 
 ### 🗃️ Database
 MongoDB • Mongoose • Firebase
